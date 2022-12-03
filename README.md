@@ -3,7 +3,7 @@ A repository to store my solutions for [Advent of Code 2022](https://adventofcod
 
 Solutions will be slightly refactored for readability before submission.
 
-|        |    1 |     2 |    3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+|        |    [1](Day_1.md) |     [2](Day_2.md) |    [3](Day_3.md) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
 |--------|-----:|------:|-----:|--:|--:|--:|--:|--:|--:|---:|---:|---:|---:|
 | Part 1 | 2:09 | 13:17 | 5:56 |   |   |   |   |   |   |    |    |    |    |
 | Part 2 | 1:39 | 13:08 | 2:15 |   |   |   |   |   |   |    |    |    |    |
