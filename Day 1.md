@@ -1,9 +1,7 @@
 # Day 1
-| | Time |
-|---|---|
-|Part 1|2:09|
-|Part 2|1:39|
-|Total|3:48|
+| | Part 1 | Part 2 | Total |
+|---|---|---|---|
+|Time|2:09|1:39|3:48|
 
 ```python
 data = []
