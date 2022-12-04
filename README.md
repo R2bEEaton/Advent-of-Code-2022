@@ -1,4 +1,4 @@
-# Advent-of-Code-2022
+# Ryan Eaton's Advent of Code 2022
 A repository to store my solutions for [Advent of Code 2022](https://adventofcode.com/2022).
 
 Solutions will be slightly refactored for readability before submission. No logic changes.
