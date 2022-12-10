@@ -35,4 +35,4 @@ Solutions will be slightly refactored for readability before submission. In othe
 |[Day 22: ?](22.md)|||||
 |[Day 23: ?](23.md)|||||
 |[Day 24: ?](24.md)|||||
-|[Day 25: ?](25.md)|||||
+|[Day 25: ?](25.md)|||||"
