@@ -9,7 +9,7 @@ Solutions will be slightly refactored for readability before submission. In othe
 - No fixing the stupid or unnecessary checks I wrote
 ```
 
-|                                        | Part 1 | Part 2 | Total   | Comment                          |
+| Title                                  | Part 1 | Part 2 | Total   | Comment                          |
 |----------------------------------------|--------|--------|---------|----------------------------------|
 | [Day 1: Calorie Counting](1.md)        | 2:09   | 1:39   | 3:48    | File Reading 101                 |
 | [Day 2: Rock Paper Scissors](2.md)     | 13:17  | 13:08  | 26:25   | Oh yeah, rock beats scissors...  |
@@ -19,7 +19,7 @@ Solutions will be slightly refactored for readability before submission. In othe
 | [Day 6: Tuning Trouble](6.md)          | 3:03   | 0:58   | 4:01    | Window set                       |
 | [Day 7: No Space Left on Device](7.md) | 28:28  | 4:30   | 42:58   | On the path to madness           |
 | [Day 8: Treetop Tree House](8.md)      | 51:58  | 13:43  | 1:05:41 | adventofreadingcomprehension.com |
-| [Day 9: Rope Bridge](9.md)             | 29:26  | 6:57   | 36:23   | It knot work                     |
+| [Day 9: Rope Bridge](9.md)             | 29:26  | 6:57   | 36:23   | It's knot working                |
 | [Day 10: Cathode-Ray Tube](10.md)      | 5:53   | 15:40  | 21:33   | Scanlines galore                 |
 | [Day 11: ?](11.md)                     |        |        |         |                                  |
 | [Day 12: ?](12.md)                     |        |        |         |                                  |
