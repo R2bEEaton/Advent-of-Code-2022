@@ -1,7 +1,13 @@
 # Ryan Eaton's Advent of Code 2022
 A repository to store my solutions for [Advent of Code 2022](https://adventofcode.com/2022).
 
-Solutions will be slightly refactored for readability before submission. No logic changes.
+Solutions will be slightly refactored for readability before submission. In other words...
+
+```diff
++ Refactor to remove unused code
+- No logic changes allowed
+- No fixing the stupid or unnecessary checks I wrote
+```
 
 |        | [1](1.md) | [2](2.md) | [3](3.md) | [4](4.md) | [5](5.md) | [6](6.md) | [7](7.md) | [8](8.md) | [9](9.md) | [10](10.md) | [11](11.md) | [12](12.md) | [13](13.md) |
 |--------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-------------|-------------|-------------|-------------|
