@@ -21,7 +21,7 @@ Solutions will be slightly refactored for readability before submission. In othe
 |[Day 8: Treetop Tree House](8.md)|51:58|13:43|1:05:41|adventofreadingcomprehension.com|
 |[Day 9: Rope Bridge](9.md)|29:26|6:57|36:23|It's knot working|
 |[Day 10: Cathode-Ray Tube](10.md)|5:53|15:40|21:33|Scanlines galore|
-|[Day 11: ?](11.md)|||||
+|[Day 11: Monkey in the Middle](11.md)|15:54|29:13|45:07|Modul... ohhhh|
 |[Day 12: ?](12.md)|||||
 |[Day 13: ?](13.md)|||||
 |[Day 14: ?](14.md)|||||
@@ -35,4 +35,4 @@ Solutions will be slightly refactored for readability before submission. In othe
 |[Day 22: ?](22.md)|||||
 |[Day 23: ?](23.md)|||||
 |[Day 24: ?](24.md)|||||
-|[Day 25: ?](25.md)|||||"
+|[Day 25: ?](25.md)|||||
