@@ -22,7 +22,7 @@ Solutions will be slightly refactored for readability before submission. In othe
 |[Day 9: Rope Bridge](9.md)|29:26|6:57|36:23|It's knot working|
 |[Day 10: Cathode-Ray Tube](10.md)|5:53|15:40|21:33|Scanlines galore|
 |[Day 11: Monkey in the Middle](11.md)|15:54|29:13|45:07|Modul... ohhhh|
-|[Day 12: ?](12.md)|||||
+|[Day 12: Hill Climbing Algorithm](12.md)|25:51|9:48|35:39|Breadth first search|
 |[Day 13: ?](13.md)|||||
 |[Day 14: ?](14.md)|||||
 |[Day 15: ?](15.md)|||||
