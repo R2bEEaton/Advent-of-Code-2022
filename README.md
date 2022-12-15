@@ -25,7 +25,7 @@ Solutions will be slightly refactored for readability before submission. In othe
 |[Day 12: Hill Climbing Algorithm](12.md)|25:51|9:48|35:39|Breadth first search|
 |[Day 13: Distress Signal](13.md)|47:21|8:50|56:11|One order of packets please|
 |[Day 14: Regolith Reservoir](14.md)|14:56|2:06|17:02|I don't like sand|
-|[Day 15: ?](15.md)|||||
+|[Day 15: Beacon Exclusion Zone](15.md)|56:13|1:13:27|2:09:40|...|
 |[Day 16: ?](16.md)|||||
 |[Day 17: ?](17.md)|||||
 |[Day 18: ?](18.md)|||||
