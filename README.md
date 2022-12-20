@@ -29,7 +29,7 @@ Solutions will be slightly refactored for readability before submission. In othe
 |[Day 16: Proboscidea Volcanium](16.md)|15:56:59|>24h|>24h|Elephant is You|
 |[Day 17: Pyroclastic Flow](17.md)|1:29:11|>24h|>24h|Wowee|
 |[Day 18: Boiling Boulders](18.md)|4:02|47:06|51:08|Surface area shenanigans|
-|[Day 19: Not Enough Minerals](19.md)|...|...|...|...|
+|Day 19: Not Enough Minerals|...|...|...|...|
 |[Day 20: Grove Positioning System](20.md)|1:52:18|2:02|1:54:20|I was duped|
 |[Day 21: ?](21.md)|||||
 |[Day 22: ?](22.md)|||||
