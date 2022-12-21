@@ -31,7 +31,7 @@ Solutions will be slightly refactored for readability before submission. In othe
 |[Day 18: Boiling Boulders](18.md)|4:02|47:06|51:08|Surface area shenanigans|
 |[Day 19: Not Enough Minerals](19.md)|...|...|...|...|
 |[Day 20: Grove Positioning System](20.md)|1:52:18|2:02|1:54:20|I was duped|
-|[Day 21: ?](21.md)|||||
+|[Day 21: Monkey Math](21.md)|9:16:10|35:56|9:52:06|Refreshing (I had an exam)|
 |[Day 22: ?](22.md)|||||
 |[Day 23: ?](23.md)|||||
 |[Day 24: ?](24.md)|||||
