@@ -9,6 +9,14 @@ Solutions will be slightly refactored for readability before submission. In othe
 - No fixing the stupid or unnecessary checks I wrote
 ```
 
+## Edit after completion:
+
+It's been a blast! This is my first time ever completing all the puzzles of an Advent of Code year, and it feels great! I grinded on 12/24 before midnight to get all the puzzles I was behind on (due to exams and Christmas activities). Unfortunately, I was not able to complete Day 24 Part 2 in time, so my 50th star was locked out. After completing Day 25 Part 1, I decided to stay up and work on Day 24 Part 2 (which honestly was just waiting for my silly code to finish running 30 minutes later).
+
+I was ***2077th*** to complete Day 25 Part 2 and hence, ***2077th*** to complete all of Advent of Code 2022! (That's ***1=2=02th*** in SNAFU.)
+
+## Times and Tiny Comments
+
 |Title|Part 1|Part 2|Total|Comment|
 |---|---|---|---|---|
 |[Day 1: Calorie Counting](1.md)|2:09|1:39|3:48|File Reading 101|
