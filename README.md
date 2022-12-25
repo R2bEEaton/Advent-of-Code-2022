@@ -32,7 +32,7 @@ Solutions will be slightly refactored for readability before submission. In othe
 |[Day 19: Not Enough Minerals](19.md)|>24h|33:12|>24h|...|
 |[Day 20: Grove Positioning System](20.md)|1:52:18|2:02|1:54:20|I was duped|
 |[Day 21: Monkey Math](21.md)|9:16:10|35:56|9:52:06|Refreshing (I had an exam)|
-|[Day 22: ?](22.md)|||||
+|[Day 22: Monkey Map](22.md)|16:18:48|>24h|>24h|Confusing Cubes|
 |[Day 23: ?](23.md)|||||
 |[Day 24: ?](24.md)|||||
 |[Day 25: ?](25.md)|||||
