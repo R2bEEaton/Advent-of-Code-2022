@@ -34,5 +34,5 @@ Solutions will be slightly refactored for readability before submission. In othe
 |[Day 21: Monkey Math](21.md)|9:16:10|35:56|9:52:06|Refreshing (I had an exam)|
 |[Day 22: Monkey Map](22.md)|16:18:48|>24h|>24h|Confusing cubes|
 |[Day 23: Unstable Diffusion](23.md)|>24h|2:17|>24h|Elfular Automata|
-|[Day 24: Blizzard Basin](24.md)|23:58:57|||Virtual White Christmas (CPU go brr)|
-|[Day 25: Full of Hot Air](25.md)|17:58|...||Merry Christmas, Eric Wastl!|
+|[Day 24: Blizzard Basin](24.md)|23:58:57|>24h|>24h|Virtual White Christmas (CPU go brr)|
+|[Day 25: Full of Hot Air](25.md)|17:58|44:36|1:02:34|Merry Christmas, Eric Wastl!|
